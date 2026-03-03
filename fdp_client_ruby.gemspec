@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name = "fdp_client"
-  spec.version = "0.0.1"
+  spec.version = "0.0.2"
   spec.authors = ["Mark Wilkinson"]
   spec.email = ["markw@illuminae.com"]
 
